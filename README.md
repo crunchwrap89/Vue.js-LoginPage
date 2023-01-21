@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Find tutorials on fun coding projects at
+[www.marcusn.dev](https://marcusn.dev)
